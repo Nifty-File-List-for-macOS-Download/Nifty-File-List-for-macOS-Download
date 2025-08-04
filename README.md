@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/1trGtYMn/1633864955-niftyfilelists-icon.png" width="200" alt="Nifty File Lists macOS Banner" />
+  <img src="https://i.ibb.co/1trGtYMn/1633864955-niftyfilelists-icon.png" width="350" alt="Nifty File Lists macOS Banner" />
 </p>
 
 <h1 align="center">Nifty File Lists for macOS</h1>
